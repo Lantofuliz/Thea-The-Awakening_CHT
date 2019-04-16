@@ -1,4 +1,4 @@
-# Thea-The-Awakening-CHT
+# Thea-The-Awakening-CHT/EN
 西婭：覺醒 事件文本雙語化(繁中/英)
 
 官方有釋出一個事件文本中文化的方法，就是利用CUSTOM.txt來製作，感謝3DM漢化組提供的漢化，
