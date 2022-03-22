@@ -17232,8 +17232,10 @@ They come in various sizes and shapes, they travel in groups and they are often 
 
 「你們會和我們玩捉迷藏嗎？」
 ‘Will you play hide and seek with us, will you?’
-<ANS>‘What the heck, why not.’
-<ANS>‘Nope, we will certainly not.’
+<ANS>什麼鬼，為什麼不呢。
+‘What the heck, why not.’
+<ANS>不，我們當然不會。
+‘Nope, we will certainly not.’
 
 <PHASE>ID: 1
 <STORY>霍立克邊哭邊跑開了。接下來的幾天，你們的頭發生滿虱子，牛奶中出現鹽巴，鞋子裡灑滿釘子。但最後，一切又回到正軌。
@@ -17987,7 +17989,8 @@ I hear the Dragon only gets hungrier with time, soon it won’t be just children
 
 對了，想要再次找到我們，只要跟著龍就行。它喜歡到處飛來飛去。」
 Oh, and just follow the Dragon to find us again, he likes to move about.’
-<ANS>‘Alright, we’ll get you the stuff and then we’ll talk about the reward.'
+<ANS>「好吧，我們會帶來這些東西，然後再來談談報酬。」
+‘Alright, we’ll get you the stuff and then we’ll talk about the reward.'
 
 <ADVENTURE>ID:152 NAME:Valvel dragon 3
 
@@ -19121,7 +19124,7 @@ The old man nods, his face twisted in a mixture of fear and sadness:
 
 「我把地點印到了你的腦海裡，你隨時隨地都能想起來。」
 'I have imprinted the location you seek in your minds, you will find it whenever you seek it.'
-<ANS>「你們讓人類，讓這座大學，也讓你們自己蒙羞。你們釋放了佐婭看守的巨獸，對這等侮辱只有一種回答！為了榮耀而戰！」攻擊！【智力】
+<ANS>「你們讓人類，讓這座大學，也讓你們自己蒙羞。你們釋放了佐婭看守的巨獸，對這等侮辱只有一種回答！為了榮耀而戰！」攻擊！【戰鬥】
 'You have dishonoured mankind, yourselves and this institution. You have unleashed the Beast that Zorya guarded and there is only one true response to this affront! Fight for your honour!' Attack!  [Fight]
 <ANS>「英勇的女神或許會選擇懲罰你們，但我們不會。我們會舉行儀式，讓你們自由。」【智力】
 ‘Our valiant Lady Protector may choose to punish you in her time, but we will not. We will do the ritual and try to set you free.'  [Intellect]
@@ -20187,7 +20190,7 @@ Break it and release the power of all three Gods!
 You realise that through your actions the blessing of Perun is very strong within you. You can break the rod in such a way, that only Perun's power is released, thus making him the only remaining Thunder God, supreme to more than just one Pantheon!
 <ANS>好！讓佩龍成為西婭唯一的雷神！
 Yes! Make Perun the God of all Thunder in all of Thea!
-<ANS>不！我們不需要與其他神發生戰爭的風險。古老的萬神殿需要修復，其他的雷神也需要被釋放。打破長桿使所有的雷神恢復力量！
+<ANS>不！我們不需要與其他神發生戰爭的風險。古老的萬神殿需要修復，其他的雷神也需要被釋放。打破長桿使所有三位神恢復力量！
 No! We don't need potential wars with other Gods. The old Pantheon needs to be restored and the other Thunder Gods released. Break the rod so that all three Gods reclaim their power!
 
 <PHASE>ID: 13
@@ -22143,7 +22146,10 @@ The woman speaks:
 
 「別過來！我不喜歡人類，而且你們也往往不喜歡我。是我那堅定不移的孫女帶你們來的嗎？」
 'Keep your distance! I dislike people and the feeling proves mutual on most occasions. Did my unwavering grandchild lead you here?'
-<ANS>'Yes, she said you were in trouble.'
+
+
+<ANS>「是的，她說您遇到了麻煩。」
+'Yes, she said you were in trouble.'
 
 <PHASE>ID: 12
 <STORY>你轉向那個女孩，但她已經不見了。老婦人皺眉並搖了搖頭：
@@ -32970,7 +32976,7 @@ Approach the Umbrage Lord!
 Approach the Umbrage Lord!
 <ANS>靠近憤怒之主！
 Approach the Umbrage Lord!
-<ANS>靠近憤怒之主！
+<ANS>實際上，還是晚點再來吧!
 Actually, come back later!
 
 <PHASE>ID: 1
